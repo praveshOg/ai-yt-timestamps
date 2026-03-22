@@ -11,6 +11,7 @@ root.render(
   </React.StrictMode>
 );
 //This is really cool code!!
+//This is real fun!!
 
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
